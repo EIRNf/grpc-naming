@@ -1,4 +1,4 @@
-module naming
+module github.com/EIRNf/grpc-naming/naming
 
 go 1.20
 
